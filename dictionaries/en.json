@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "page": {
+    "home": {
+      "title": "Home Page",
+      "desc": "lorem ipsum"
+    },
+    "about": {
+      "title": "About Page",
+      "desc": "about lorem ipsum"
+    }
+  }
+}
